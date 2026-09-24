@@ -1,2 +1,0 @@
-https://zenodo.org/records/5504061/files/H3K4me3.rds?download=1
-https://zenodo.org/records/5504061/files/H3K4me3_fragments.tsv.gz?download=1
